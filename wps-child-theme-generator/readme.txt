@@ -3,9 +3,9 @@ Contributors: WPServeur, Benoti, NicolasKulka
 Donate link: https://www.paypal.me/donateWPServeur
 Tags: theme, child, options, functions, generator, tools, wpserveur
 Requires at least: 3.3
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 1.5.5.1
+Stable tag: 1.5.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,6 +98,9 @@ This plugin is only maintained, which means we do not guarantee free support. Co
 1. Tools
 
 == Changelog ==
+
+= 1.5.5.2 =
+* Tested up to 6.8
 
 = 1.5.5.1 =
 * Fix Fatal Error
