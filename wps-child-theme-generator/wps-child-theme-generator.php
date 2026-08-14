@@ -3,8 +3,8 @@
 Plugin Name: WPS Child Theme Generator
 Description:  WPS Child Theme Generator.
 Donate link: https://www.paypal.me/donateWPServeur
-Version: 1.5.5.2
-Tested up to: 6.8
+Version: 1.5.5.3
+Tested up to: 7.1
 Author: WPServeur, Benoti, NicolasKulka
 Author URI: https://wpserveur.net
 License: GPL2
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'WPS_CHILD_THEME_GENERATOR_VERSION', '1.5.5.2' );
+define( 'WPS_CHILD_THEME_GENERATOR_VERSION', '1.5.5.3' );
 define( 'WPS_CHILD_THEME_GENERATOR_FOLDER', 'wps-child-theme-generator' );
 define( 'WPS_CHILD_THEME_GENERATOR_BASENAME', plugin_basename( __FILE__ ) );
 if ( ! defined( 'WPS_PUB_API_URL' ) ) {
